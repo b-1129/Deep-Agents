@@ -8,3 +8,4 @@ langchain-deepseek
 langchain-openai
 claude
 langchain-google-genai
+langchain_quickjs
