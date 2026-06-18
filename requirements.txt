@@ -4,3 +4,5 @@ tavily
 langchain-groq
 groq>=0.4.1,<1.0.0
 deepagents
+langchain-deepseek
+langchain-openai
