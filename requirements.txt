@@ -7,3 +7,4 @@ deepagents
 langchain-deepseek
 langchain-openai
 claude
+langchain-google-genai
